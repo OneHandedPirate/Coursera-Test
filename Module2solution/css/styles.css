@@ -7,7 +7,7 @@ div {
     background-color: grey;
     position: relative;
     float: left;
-    border: 3px solid black;
+    border: 1px solid black;
     box-sizing: border-box;
     margin: 1%;
 }
@@ -20,13 +20,13 @@ div {
 
 .title {
     position: absolute;
-    right: -3px;
-    top: -3px;
+    right: -1px;
+    top: -1px;
     text-align: center;
     font-size: 150%;
     margin-top: 0px;
     width: 150px; 
-    border: 2px solid black;
+    border: 1px solid black;
     font-weight: 600;
 }
 
