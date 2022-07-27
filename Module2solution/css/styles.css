@@ -27,6 +27,7 @@ div {
     margin-top: 0px;
     width: 150px; 
     border: 2px solid black;
+    font-weight: 600;
 }
 
 #chicken {
@@ -35,6 +36,7 @@ div {
 
 #beef {
     background-color: brown;
+    color: white;
 }
 
 #sushi {
