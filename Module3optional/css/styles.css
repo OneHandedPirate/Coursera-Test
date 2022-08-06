@@ -5,6 +5,7 @@ body {
 .navbar-brand, .navbar-brand:focus  {
     color: rgb(219, 153, 67);
     font-size: 1.5em;
+    transition-duration: 0.3s;
 }
 
 hr.dropdown-divider {
@@ -20,7 +21,8 @@ hr.dropdown-divider {
 
 .navbar-brand:hover {
     color: white;
-    text-shadow: 1px 1px 10px rgb(255, 255, 255);;
+    text-shadow: 1px 1px 10px rgb(255, 255, 255);
+    transition-duration: 0.3s;
 }
 
 .navbar-toggler {
